@@ -7,4 +7,4 @@
 ### Demo
 ![](https://i.imgur.com/zRQiwr1.jpg)
 
-[Video Demo](https://https://www.youtube.com/watch?v=nG5KKAlwMCc&t=1s)
+[Video Demo](https://www.youtube.com/watch?v=nG5KKAlwMCc&t=1s)
