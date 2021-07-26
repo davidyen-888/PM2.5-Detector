@@ -1,5 +1,5 @@
 # PM2.5-detector
-> You can know the current air quality without connecting to internet. Just simply check out the mobile app with bluetooth turned on!
+> You can know the current air quality without connecting to Internet. Just simply check out the mobile app with bluetooth turning on!
 ### Hardware and Software Requirements
 * Arduino
 * Android Studio
